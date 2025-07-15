@@ -1,1 +1,3 @@
-enter .venv `.venv/Scripts/activate`
+Test with the following commands:
+`poetry shell`
+`py -m fintrack`
